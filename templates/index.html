@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Sentiment Analysis</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        header {
+            background: #197278;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 20px;
+        }
+
+        textarea {
+            width: 100%;
+            max-width: 500px;
+            height: 100px;
+            border-radius: 3px;
+            border: 2px solid #e2661d;
+            padding: 10px;
+            margin-top: 20px;
+            font-size: 16px;
+            box-sizing: border-box;
+            resize: vertical;
+        }
+
+        button {
+            width: 120px;
+            height: 40px;
+            margin-top: 20px;
+            border: 2px solid #e2661d;
+            background-color: antiquewhite;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        button:hover {
+            width: 140px;
+            height: 50px;
+            background-color: #e2661d;
+            color: white;
+            box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+        }
+
+        .predict {
+            margin-top: 20px;
+            font-size: 18px;
+            text-align: center;
+        }
+
+        .footer {
+            background-color: #283d3b;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            margin-top: auto;
+        }
+
+        .social-links {
+            margin-top: 20px;
+            font-size: 24px;
+        }
+
+        .social-links a {
+            margin: 0 10px;
+            color: white;
+        }
+
+        .copyright {
+            margin-top: 16px;
+            background-color: black;
+            color: white;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+        iframe {
+            min-width: 100px;
+            width: 100%;
+            min-height: 100px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h3>Sentiment Analysis of Reviews</h3>
+       
+    </header>
+
+
+    <iframe src='https://webchat.botframework.com/embed/azbotserv-bot?s=hH_E1p7fLa0.RjnPgXzbGtPShhCkjVGz0ya-VIzL4qHbdYw01NHET7w'></iframe>
+
+    <form action="{{ url_for('predict')}}" method="post">
+        <textarea name="Review" placeholder="Enter the restaurant review here..." required="required" rows="5"></textarea>
+        <button type="submit">Predict</button>
+        
+    </form>
+
+    <div class="predict">
+        {{ prediction_text }}
+    </div>
+
+    
+        <div class="copyright" align=center>
+            © 2024 Copyright: kunal kadam
+            
+
+        </div>
+    </div>
+</body>
+</html>

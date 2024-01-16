@@ -1,0 +1,42 @@
+/* Reset some default styles for better consistency across browsers */
+body, h2, div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa; /* Bootstrap background color */
+}
+
+.container {
+    margin-top: 50px; /* Add margin from the top for better spacing */
+}
+
+h2 {
+    color: #007bff; /* Bootstrap primary color */
+}
+
+/* Style the result details */
+div {
+    margin-top: 15px;
+    font-size: 16px;
+    color: #343a40; /* Bootstrap dark color */
+}
+
+strong {
+    color: #0062cc; /* Bootstrap info color */
+}
+
+/* Style the "Try another one!" link */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    color: #007bff; /* Bootstrap primary color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #0056b3; /* Bootstrap link hover color */
+}
