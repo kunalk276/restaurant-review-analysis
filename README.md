@@ -147,9 +147,9 @@ Then stored those words which are not a stopword or any English punctuation.
 
 * Google Colab Notebook [here](https://colab.research.google.com/drive/1kblB-lavQTm9eRWlGQMwdKLKnE8hUymW?usp=sharing).
 
-# 5. Heroku Deployment
+# 5.  Deployment
 
-Thanks to Krish Naik Sir Heroku deployment was very easy. I found his video and followed the steps. It would be more better to watch his video rather than explaining whole process and there are very few steps.
+ I found his video and followed the steps. It would be more better to watch his video rather than explaining whole process and there are very few steps.
 
 Here is the [link](https://youtu.be/mrExsjcvF4o) of the video.
 
