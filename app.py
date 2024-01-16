@@ -1,6 +1,4 @@
 import requests, os, uuid, json
-from dotenv import load_dotenv
-load_dotenv()
 import numpy as np
 from flask import Flask, request, render_template
 import joblib
@@ -39,9 +37,9 @@ def index_post():
     target_language = request.form['language']
 
     # Load the values from .env
-    key = os.environ['180a6081ed03416e874752c6f85ccfee']
-    endpoint = os.environ['https://api.cognitive.microsofttranslator.com/']
-    location = os.environ['eastus']
+    key = '180a6081ed03416e874752c6f85ccfee'
+    endpoint = 'https://api.cognitive.microsofttranslator.com/'
+    location = 'eastus'
 
     # Indicate that we want to translate and the API version (3.0) and the target language
     path = '/translate?api-version=3.0'
