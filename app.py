@@ -41,8 +41,7 @@ def index_post():
     # Load the values from .env
     key = os.environ['180a6081ed03416e874752c6f85ccfee']
     endpoint = os.environ['https://api.cognitive.microsofttranslator.com/']
-    location = os.environ['eastus
-']
+    location = os.environ['eastus']
 
     # Indicate that we want to translate and the API version (3.0) and the target language
     path = '/translate?api-version=3.0'
