@@ -184,9 +184,6 @@ Thus, can conclude that the motive was successful and the model can be used to d
 * Don't forget to add gunicorn in the requirement.txt because it will give an error if you don't add
 # Contact me
 
-[Linkedln](https://www.linkedin.com/in/abhi7585/)
-[Twitter](https://twitter.com/the_abhi_7585)
-
 
 # Development and Credits
 
@@ -194,6 +191,6 @@ Want to contribute? Great!
 Feel free to add any issues and pull request.
 
 Credits: 
-Heroku Deployement: @krishnaik06 Youtube Channel
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
