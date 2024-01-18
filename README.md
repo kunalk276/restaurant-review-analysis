@@ -1,7 +1,13 @@
 # AUTOMATE DETECTION OF DIFFERENT SENTIMENTS FROM TEXTUAL COMMENTS AND FEEDBACK
 
 
-
+Project Demo URL :
+https://restaurant-review-analysis.azurewebsites.net/predict
+Demo Video URL :
+https://drive.google.com/file/d/1F8xT02qrc-YOzmuojUzaRX6IicpC8wJT/view?usp=sharing
+Github Repository URL :
+https://github.com/kunalk276/restaurant-review-analysis
+Industry : Hospitality and Food Service Technology
 
 # Introduction
 
@@ -149,9 +155,8 @@ Then stored those words which are not a stopword or any English punctuation.
 
 # 5.  Deployment
 
- I found his video and followed the steps. It would be more better to watch his video rather than explaining whole process and there are very few steps.
 
-Here is the [link](https://restaurant-review-analysis.azurewebsites.net/predict) of the video.
+Here is the you can see the entire project [link](https://restaurant-review-analysis.azurewebsites.net/predict) of the website.
 
 # 6. Future Work
 
@@ -186,21 +191,42 @@ Thus, can conclude that the motive was successful and the model can be used to d
 
 
 # SCREENSHOTS
+  Working Live Project Display
+  
 <img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/e3db3b3a-7c15-4864-9051-9231888afcbf">
+
 
 <img width="958" alt="Screenshot 2024-01-18 165302" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7687bf6a-15b6-416c-b91d-06fc06cc2455">
 
+Azure App Service
+Description:
+Azure App Service furnishes a scalable and dependable hosting setting for the Loan Application Approval, guaranteeing smooth deployment and uninterrupted availability to enhance the user experience.
+
 <img width="960" alt="Screenshot 2024-01-18 164815" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a2f11784-2733-4d3a-806c-52bfc6927e68">
+
+Azure Storage Service
+Description:
+The project utilizes Azure Storage Service to securely store the pickle file in a Blob container, ensuring persistence and accessibility for loan application processing.
+
 
 <img width="950" alt="Screenshot 2024-01-18 164907" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a8dccec3-97af-4963-8b08-edad32151d73">
 
+Azure Language Studio (Azure AI QnAMaker Service)
+Description:
+The Loan Application Approval relies on Azure Language Studio for implementing a chatbot, enhancing user interactions and providing knowledge to user queries on the web app.
+
+
 <img width="960" alt="Screenshot 2024-01-18 165038" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7b125884-0b6a-4193-80c1-7300a692f669">
+
 
 <img width="960" alt="Screenshot 2024-01-18 165135" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/2ceb3ad5-1e5f-4228-bccb-d5d59a55e47f">
 
-<img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/77e2adcc-0df9-46d1-b82f-ad4677912e35">
 
 Credits: 
 
+~ kunal kadam 
+~ kunalkadam2762001@gmail.com 
+~ https://github.com/kunalk276/restaurant-review-analysis
+~ www.linkedin.com/in/kunal-kadam-19m276
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
