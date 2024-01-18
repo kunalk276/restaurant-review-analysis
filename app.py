@@ -10,10 +10,10 @@ model = joblib.load(open('model.pkl', 'rb'))
 cv = joblib.load(open('cv.pkl', 'rb'))
 
 mydb = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    password="ADI#27#nal",
-    database="restaurant"
+    host="myressqldbaz01.mysql.database.azure.com",
+    user="mydbadmin@myressqldbaz01",
+    password="Kunal123",
+    database="myressqldbaz01"
 )
 
 mycursor = mydb.cursor()
