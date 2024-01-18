@@ -200,10 +200,12 @@ Thus, can conclude that the motive was successful and the model can be used to d
 
   **Working Live Project Display**
   
+  
 <img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/e3db3b3a-7c15-4864-9051-9231888afcbf">
 
 
 <img width="958" alt="Screenshot 2024-01-18 165302" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7687bf6a-15b6-416c-b91d-06fc06cc2455">
+
 
 **Azure App Service**
 
@@ -213,6 +215,7 @@ Azure App Service furnishes a scalable and dependable hosting setting for the Lo
 
 <img width="960" alt="Screenshot 2024-01-18 164815" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a2f11784-2733-4d3a-806c-52bfc6927e68">
 
+
 **Azure Storage Service**
 
 Description:
@@ -221,6 +224,7 @@ The project utilizes Azure Storage Service to securely store the pickle file in 
 
 
 <img width="950" alt="Screenshot 2024-01-18 164907" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a8dccec3-97af-4963-8b08-edad32151d73">
+
 
 **Azure Language Studio (Azure AI QnAMaker Service)**
 
@@ -233,6 +237,7 @@ The Loan Application Approval relies on Azure Language Studio for implementing a
 
 
 <img width="960" alt="Screenshot 2024-01-18 165135" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/2ceb3ad5-1e5f-4228-bccb-d5d59a55e47f">
+
 
 
 # Credits: 
