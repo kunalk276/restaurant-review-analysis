@@ -151,7 +151,7 @@ Then stored those words which are not a stopword or any English punctuation.
 
  I found his video and followed the steps. It would be more better to watch his video rather than explaining whole process and there are very few steps.
 
-Here is the [link](https://youtu.be/mrExsjcvF4o) of the video.
+Here is the [link](https://) of the video.
 
 # 6. Future Work
 
