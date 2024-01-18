@@ -12,7 +12,7 @@ cv = joblib.load(open('cv.pkl', 'rb'))
 mydb = mysql.connector.connect(
     host="myressqldbaz01.mysql.database.azure.com",
     user="mydbadmin@myressqldbaz01",
-    password="Kunal123",
+    password="Server@1",
     database="myressqldbaz01"
 )
 
