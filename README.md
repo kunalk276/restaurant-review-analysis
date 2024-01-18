@@ -3,10 +3,16 @@
 
 Project Demo URL :
 https://restaurant-review-analysis.azurewebsites.net/predict
+
+
 Demo Video URL :
 https://drive.google.com/file/d/1F8xT02qrc-YOzmuojUzaRX6IicpC8wJT/view?usp=sharing
+
+
 Github Repository URL :
 https://github.com/kunalk276/restaurant-review-analysis
+
+
 Industry : Hospitality and Food Service Technology
 
 # Introduction
@@ -191,6 +197,7 @@ Thus, can conclude that the motive was successful and the model can be used to d
 
 
 # SCREENSHOTS
+
   Working Live Project Display
   
 <img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/e3db3b3a-7c15-4864-9051-9231888afcbf">
@@ -199,20 +206,26 @@ Thus, can conclude that the motive was successful and the model can be used to d
 <img width="958" alt="Screenshot 2024-01-18 165302" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7687bf6a-15b6-416c-b91d-06fc06cc2455">
 
 Azure App Service
+
 Description:
+
 Azure App Service furnishes a scalable and dependable hosting setting for the Loan Application Approval, guaranteeing smooth deployment and uninterrupted availability to enhance the user experience.
 
 <img width="960" alt="Screenshot 2024-01-18 164815" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a2f11784-2733-4d3a-806c-52bfc6927e68">
 
 Azure Storage Service
+
 Description:
+
 The project utilizes Azure Storage Service to securely store the pickle file in a Blob container, ensuring persistence and accessibility for loan application processing.
 
 
 <img width="950" alt="Screenshot 2024-01-18 164907" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a8dccec3-97af-4963-8b08-edad32151d73">
 
 Azure Language Studio (Azure AI QnAMaker Service)
+
 Description:
+
 The Loan Application Approval relies on Azure Language Studio for implementing a chatbot, enhancing user interactions and providing knowledge to user queries on the web app.
 
 
@@ -225,8 +238,12 @@ The Loan Application Approval relies on Azure Language Studio for implementing a
 Credits: 
 
 ~ kunal kadam 
+
 ~ kunalkadam2762001@gmail.com 
+
 ~ https://github.com/kunalk276/restaurant-review-analysis
+
 ~ www.linkedin.com/in/kunal-kadam-19m276
+
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
