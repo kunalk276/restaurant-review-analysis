@@ -151,7 +151,7 @@ Then stored those words which are not a stopword or any English punctuation.
 
  I found his video and followed the steps. It would be more better to watch his video rather than explaining whole process and there are very few steps.
 
-Here is the [link](https://) of the video.
+Here is the [link](https://restaurant-review-analysis.azurewebsites.net/predict) of the video.
 
 # 6. Future Work
 
@@ -185,10 +185,20 @@ Thus, can conclude that the motive was successful and the model can be used to d
 # Contact me
 
 
-# Development and Credits
+# SCREENSHOTS
+<img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/e3db3b3a-7c15-4864-9051-9231888afcbf">
 
-Want to contribute? Great!
-Feel free to add any issues and pull request.
+<img width="958" alt="Screenshot 2024-01-18 165302" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7687bf6a-15b6-416c-b91d-06fc06cc2455">
+
+<img width="960" alt="Screenshot 2024-01-18 164815" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a2f11784-2733-4d3a-806c-52bfc6927e68">
+
+<img width="950" alt="Screenshot 2024-01-18 164907" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/a8dccec3-97af-4963-8b08-edad32151d73">
+
+<img width="960" alt="Screenshot 2024-01-18 165038" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/7b125884-0b6a-4193-80c1-7300a692f669">
+
+<img width="960" alt="Screenshot 2024-01-18 165135" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/2ceb3ad5-1e5f-4228-bccb-d5d59a55e47f">
+
+<img width="960" alt="Screenshot 2024-01-18 165227" src="https://github.com/kunalk276/restaurant-review-analysis/assets/155727841/77e2adcc-0df9-46d1-b82f-ad4677912e35">
 
 Credits: 
 
