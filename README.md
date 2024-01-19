@@ -6,7 +6,7 @@ https://restaurant-review-analysis.azurewebsites.net/predict
 
 
 **Demo Video URL :**
-https://drive.google.com/file/d/1F8xT02qrc-YOzmuojUzaRX6IicpC8wJT/view?usp=sharing
+https://drive.google.com/file/d/1HJQUyXdSYiRg4z_tY01WOVnnENOGz0Rm/view?usp=drive_link
 
 
 **Github Repository URL :**
