@@ -2,7 +2,7 @@
 
 
 **Project Demo URL :**
-https://restaurant-review-analysis.azurewebsites.net/predict
+https://restaurant-review-analysis.azurewebsites.net/
 
 
 **Demo Video URL :**
