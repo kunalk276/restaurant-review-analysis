@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1F8xT02qrc-YOzmuojUzaRX6IicpC8wJT/view?usp=shari
 https://github.com/kunalk276/restaurant-review-analysis
 
 
-**Industry :** Hospitality and Food Service Technology
+**Industry :**  Lifestyle Technology
 
 # Introduction
 
